@@ -1,0 +1,16 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Onur Utku Topaloğlu",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
